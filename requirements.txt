@@ -1,0 +1,9 @@
+langchain 
+pypdf 
+pinecone-client 
+google-api-python-client 
+google-auth 
+assemblyai 
+elevenlabs
+transformers 
+torch
